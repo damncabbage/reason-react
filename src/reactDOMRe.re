@@ -338,10 +338,10 @@ external props :
   fontSize::string? =>
   fontSizeAdjust::string? =>
   fontStretch::string? =>
-  fotStyle::string? =>
+  fontStyle::string? =>
   fontVariant::string? =>
   fontWeight::string? =>
-  fomat::string? =>
+  format::string? =>
   from::string? =>
   fx::string? =>
   fy::string? =>
